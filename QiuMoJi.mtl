@@ -1,0 +1,62 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl SB_QiuMoJi01
+Ns 9.645958
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 SB_QiuMoJi01_N.png
+map_Kd SB_QiuMoJi01_D.png
+
+newmtl SB_QiuMoJi02
+Ns 9.645958
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 SB_QiuMoJi02_N.png
+map_Kd SB_QiuMoJi02_D.png
+
+newmtl SB_QiuMoJi03
+Ns 9.645958
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 SB_QiuMoJi03_N.png
+map_Kd SB_QiuMoJi03_D.png
+map_d SB_QiuMoJi03_D.png
+
+newmtl TY_Net_01
+Ns 9.645958
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 C:\\Users\\Admin\\Desktop\\SB_QiuMoJi\\map\\TY_Net_01_N.png
+map_Kd C:\\Users\\Admin\\Desktop\\SB_QiuMoJi\\map\\TY_Net_01_D_al.png
+map_d C:\\Users\\Admin\\Desktop\\SB_QiuMoJi\\map\\TY_Net_01_D_al.png
